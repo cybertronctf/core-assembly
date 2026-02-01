@@ -1,1 +1,1 @@
-print("core-assembly UPDATE2")
+print("core-assembly FIX2")
