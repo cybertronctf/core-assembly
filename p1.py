@@ -1,1 +1,1 @@
-print("core-assembly INSERT")
+print("core-assembly UPDATE")
