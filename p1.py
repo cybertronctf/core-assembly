@@ -1,1 +1,1 @@
-print("core-assembly REINSERT")
+print("core-assembly UPDATE2")
